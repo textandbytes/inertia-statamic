@@ -1,5 +1,5 @@
 {
-  "name": "hotmeteor/inertia-statamic",
+  "name": "textandbytes/inertia-statamic",
   "description": "An Inertia.js Statamic adapter ",
   "type": "library",
   "license": "MIT",
